@@ -1,6 +1,6 @@
 # Hi, I'm Muskan Khorasi
 
-MSc Computer Science graduate based in East London, building toward junior AI/LLM engineering roles.
+MSc Computer Science graduate based in London, building toward junior AI/LLM Software engineering roles.
 
 I come from an advertising + e-commerce background, and now focus on building practical LLM systems that are useful in real workflows, not just demo projects.
 
