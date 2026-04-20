@@ -43,5 +43,5 @@ Handles product queries against a live knowledge base with production-style stru
 
 ## Connect
 
-- [![LinkedIn] : https://www.linkedin.com/in/muskan-khorasi-55915b227/
-- [Email] : Khorasimuskan1@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-khorasi-55915b227/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Khorasimuskan1@gmail.com)
