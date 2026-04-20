@@ -2,21 +2,15 @@
 
 MSc Computer Science graduate based in London, building toward junior AI/LLM Software engineering roles.
 
-I come from an advertising + e-commerce background, and now focus on building practical LLM systems that are useful in real workflows, not just demo projects.
+I come from an advertising + e-commerce background, and now focus on building practical LLM systems that are useful in real workflows.
 
 ## Projects
 
 ### 🛒 E-commerce AI Chatbot
-End-to-end platform with an AI assistant powered by AWS Bedrock + RAG.  
+End-to-end Fashion E-commerce platform with an AI assistant powered by AWS Bedrock + RAG.  
 Handles product queries against a live knowledge base with production-style structure.
 
 **Tech:** Python, AWS Bedrock, RAG, S3
-
-### 🔧 MCP Course Projects
-Hands-on projects exploring agentic AI patterns with the Model Context Protocol.  
-Focused on tool use, multi-step reasoning, and connecting LLMs to external systems.
-
-**Tech:** MCP, Anthropic API, Agentic AI
 
 ## Currently
 
@@ -26,9 +20,28 @@ Focused on tool use, multi-step reasoning, and connecting LLMs to external syste
 
 ## Stack
 
-`Python` · `AWS` · `Anthropic API` · `RAG` · `Git` · `REST APIs`
+**AI & LLM**
+`Anthropic API` · `AWS Bedrock` · `RAG` · `MCP`
+
+**Languages**
+`Python` · `JavaScript` · `SQL` .`HTML` . `CSS`
+
+**Frameworks & Tools**
+`Django` · `REST APIs` · `Pandas` · `NumPy` · `Scikit-learn` · `PyTorch` · `TensorFlow`
+
+**Databases**
+`MySQL` · `SQLite`
+
+**Cloud & Infrastructure**
+`AWS` · `S3`
+
+**Version Control**
+`Git` · `GitHub`
+
+**IDEs & Editors**
+`VS Code` · `Cursor` · `PyCharm` · `Claude Code` 
 
 ## Connect
 
-- [LinkedIn](#)
-- [Email](mailto:your-email@example.com)
+- [![LinkedIn] : https://www.linkedin.com/in/muskan-khorasi-55915b227/
+- [Email] : Khorasimuskan1@gmail.com
