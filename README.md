@@ -6,13 +6,13 @@ I come from an advertising + e-commerce background, and now focus on building pr
 
 ## Projects
 
-### 🛒 E-commerce AI Chatbot
+### 🛒 AI integrated full-stack E-commerce platform
 End-to-end Fashion E-commerce platform with an AI assistant powered by AWS Bedrock + RAG.  
 Handles product queries against a live knowledge base with production-style structure.
 
-**Tech:** Python, AWS Bedrock, RAG, S3
+**Tech:** Python, Django, SQLite, AWS Bedrock, RAG, AWS S3
 
-## Currently
+## In Progress
 
 - Preparing for AWS Cloud Practitioner certification
 - Deepening practical LLM engineering skills (fine-tuning, RAG, tool use)
