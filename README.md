@@ -6,7 +6,7 @@ I come from an advertising + e-commerce background, and now focus on building pr
 
 ## Projects
 
-**🏃 FitTrack — Full-Stack Fitness Tracker**  
+### 🏃 FitTrack — Full-Stack Fitness Tracker
 A Django web app where users can sign up, log workouts, and track their progress  
 through a live dashboard, weekly goals, and streak counter.
 
@@ -14,18 +14,17 @@ through a live dashboard, weekly goals, and streak counter.
 - Stats dashboard using Django ORM aggregations
 - Deployed on Railway with PostgreSQL and auto-deploys on every GitHub push
 
-Tech: `Python` · `Django` · `PostgreSQL` · `Bootstrap 5` · `Railway` · `Gunicorn` · `Whitenoise`  
-🔗 [Live App](https://web-production-5fc12.up.railway.app) · [GitHub](https://github.com/Muskan-Khorasi/fitness-tracker-web-app)
+Tech: `Python` · `Django` · `PostgreSQL` · `Bootstrap 5` · `Railway` · `Gunicorn` · `Whitenoise` 
+##
 
 ### 🛒 AI integrated full-stack E-commerce platform
 End-to-end Fashion E-commerce platform with an AI assistant powered by AWS Bedrock + RAG.  
 Handles product queries against a live knowledge base with production-style structure.
 
-**Tech:** Python, Django, SQLite, AWS Bedrock, RAG, AWS S3
+**Tech:** Python, Django, SQLite, AWS Bedrock, RAG, AWS S3 
+##
 
----
-
-**📉 Customer Churn Prediction — ML Classification Pipeline**  
+### 📉 Customer Churn Prediction — ML Classification Pipeline 
 Supervised learning pipeline to predict customer churn from telecoms data.  
 Covers the full ML workflow — data cleaning, feature engineering, model training and evaluation.
 
@@ -34,10 +33,9 @@ Covers the full ML workflow — data cleaning, feature engineering, model traini
 - Identified top churn predictors including contract type, tenure, and monthly charges
 
 Tech: `Python` · `Scikit-learn` · `Pandas` · `Matplotlib` · `Seaborn`
+##
 
----
-
-**🖼️ CIFAR-10 Image Classifier — CNN from Scratch**  
+### 🖼️ CIFAR-10 Image Classifier — CNN from Scratch
 Custom Convolutional Neural Network to classify images across 10 categories using the CIFAR-10 dataset.
 
 - 3-layer CNN architecture with dropout regularisation to reduce overfitting
@@ -46,7 +44,6 @@ Custom Convolutional Neural Network to classify images across 10 categories usin
 
 Tech: `Python` · `PyTorch` · `torchvision` · `Hugging Face Datasets` · `Matplotlib`
 
----
 
 ## In Progress
 
